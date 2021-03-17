@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-11-18T16:59:05</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018338464</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018338464</ApplicationNumber>
+<ApplicationDate>2020-11-13</ApplicationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>de</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="21" status="1">Application under examination</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-11-18</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Figurative</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Lignopure</MarkVerbalElementText>
+</WordMarkSpecification>
+<MarkImageDetails>
+<MarkImage>
+<MarkImageIdentifier identifierKindCode="EM">000167326681</MarkImageIdentifier>
+<MarkImageFileFormat>JPG</MarkImageFileFormat>
+<MarkImageURI>file://018/338/018338464/000167326681.JPG</MarkImageURI>
+<MarkImageCategory>
+         <CategoryCodeDetails>
+          <CategoryCode>26.01.96</CategoryCode>
+          <CategoryCode>27.01.06</CategoryCode>
+          <CategoryCode>29.01.03</CategoryCode>
+         </CategoryCodeDetails>
+        </MarkImageCategory>
+</MarkImage>
+</MarkImageDetails>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>1</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Адхезиви за промишлеността; Химически и органични смеси за употреба при производството на храни и напитки; Химически субстанции, химически материали и химически препарати, и природни елементи; Замазки, пълнители и пасти за промишлеността; Химически състави и материали за употреба в науката; Химикали, употребявани при пожарогасителни състави; Термопластични съединения; Химични продукти, използвани за суровина за производството на козметични смеси.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Lepidla pro průmyslové účely; Chemické a organické sloučeniny pro použití při výrobě potravin a nápojů; Chemické látky, chemické materiály a chemické přípravky a přírodní chemické prvky; Tmely, plniva a lepidla pro průmysl; Chemické směsi a materiály pro vědecké použití; Chemikálie používané do hasicích směsí; Termoplastické směsi; Chemické přípravky určené k výrobě kosmetiky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Klæbemidler til industriel brug; Kemiske og organiske sammensætninger til brug ved fremstilling af fødevarer og drikkevarer; Kemiske substanser, kemiske materialer og kemiske præparater, samt naturlige grundstoffer; Kit og fyldmasse og pastaer til brug i industri; Kemiske sammensætninger og materialer til videnskabelig brug; Kemikalier til brug i ildslukningsmidler; Termoplastiske sammensætninger; Kemiske præparater til brug ved fremstilling af kosmetik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Klebstoffe für gewerbliche Zwecke; Chemische und organische Verbindungen zur Verwendung bei der Herstellung von Lebensmitteln und Getränken; Chemische Substanzen, chemische Materialien und chemische Präparate sowie natürliche Elemente; Kitte, Füllstoffe und Leime für industrielle Zwecke; Chemische Verbindungen und Materialien zur Nutzung in der Wissenschaft; Chemische Erzeugnisse für Feuerlöschmittel; Thermoplastische Verbindungen; Chemische Präparate zur Verwendung in kosmetischen Produkten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κολλώδεις ουσίες για χρήση στη βιομηχανία· Χημικές και οργανικές συνθέσεις για χρήση στην παρασκευή τροφίμων και ποτών· Χημικές ουσίες, χημικά υλικά και χημικά παρασκευάσματα και φυσικά στοιχεία· Επιχρίσματα, και υλικά πλήρωσης (γεμισματος) και πηλός για χρήση στη βιομηχανία· Χημικά μείγματα και υλικά για χρήση στην επιστήμη· Χημικά προϊόντα για χρήση σε συνθέσεις πυρόσβεσης· Θερμοπλαστικές ενώσεις· Χημικά προϊόντα για χρήση στην παραγωγή καλλυντικών προϊόντων.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Adhesives for use in industry; Chemical and organic compositions for use in the manufacture of food and beverages; Chemical substances, chemical materials and chemical preparations, and natural elements; Putties, and fillers and pastes for use in industry; Chemical compositions and materials for use in science; Chemicals for use in fire extinguishing compositions; Thermoplastic compounds; Chemical preparations for use in the manufacture of cosmetics.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Adhesivos para uso industrial; Compuestos químicos y orgánicos para su uso en la fabricación de alimentos y bebidas; Substancias químicas, materias químicas y preparaciones químicas, y elementos naturales; Masillas, rellenos y pastas para su uso en la industria; Composiciones quimicas y materias para uso cientifico; Productos químicos para su uso en composiciones de extinción de incendios; Compuestos termoplásticos; Preparaciones químicas para su uso en la fabricación de productos cosméticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Liimained tööstuses kasutamiseks; Toitude ja jookide tootmisel kasutatavad keemilised ja orgaanilised ühendid; Keemilised ained, materjalid ja preparaadid ning looduslikud algained; Kitid, täiteained ning pastad tööstuses kasutamiseks; Keemilised segud ja materjalid teaduses kasutamiseks; Kemikaalid kasutamiseks tulekustutussegudes; Termoplastilised segud; Kosmeetikatoode valmistamisel kasutatavad keemilised preparaadid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Liima-aineet teollisiin tarkoituksiin; Kemialliset ja orgaaniset yhdisteet käytettäväksi elintarvikkeiden ja juomien valmistuksessa; Kemialliset ainesosat, aineet ja valmisteet sekä luonnossa esiintyvät alkuaineet; Kitit, täyteaineet ja tahnat teollisuuskäyttöön; Kemialliset yhdisteet ja aineet tieteellisiin tarkoituksiin; Palonsammutusyhdisteissä käytettävät kemikaalit; Lämpömuovautuvat seokset; Kemialliset valmisteet kosmeettisiin tuotteisiin.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Adhésifs (matières collantes) à usage industriel; Composés chimiques et organiques destinés à une utilisation dans la fabrication d'aliments et de boissons; Substances chimiques, matières chimiques et produits chimiques, et éléments naturels; Mastics et pâtes à usage industriel; Compositions et matières chimiques à usage scientifique; Agents chimiques pour produits extincteurs de flammes; Composés thermoplastiques; Préparations chimiques destinées à la fabrication de produits cosmétiques.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Ljepila za uporabu u industriji; Kemijske i organske mješavine za korištenje u proizvodnji hrane i pića; Kemijske tvari, kemijski materijali i kemijski pripravci te prirodni elementi; Kitovi, punila i paste za uporabu u industriji; Kemijske mješavine i materijali za uporabu u znanosti; Kemijska sredstva za uporabu u mješavinama za gašenje požara; Termoplastični spojevi; Kemijski pripravci za uporabu u proizvodnji kozmetike.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Iparban használatos ragasztók; Vegyi és szerves összetételek élelmiszerek és italok gyártásában való használatra; Vegyi alkotórészek, vegyi anyagok és készítmények, természetes elemek; Gittek, töltőanyagok és masszák ipari használatra; Vegyi összetételek és anyagok tudományos használatra; Tűzoltó összetételekben használt vegyszerek; Hőre lágyuló (termoplasztikus) vegyületek; Vegyi készítmények kozmetikumok gyártásához.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Adesivi per uso industriale; Composizioni chimiche e organiche per la produzione di alimenti e bevande; Sostanze chimiche, materiali e preparati chimici, ed elementi naturali; Stucchi, e riempitivi e paste per uso industriale; Composti chimici e materiali per l'uso nelle scienze; Prodotti chimici per composti per estinguere il fuoco; Composti termoplastici; Prodotti chimici per la preparazione di cosmetici.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Lipniosios medžiagos pramonės reikmėms; Cheminiai ir organiniai mišiniai maisto ir gėrimų gamybos reikmėms; Cheminės medžiagos, preparatai bei natūralieji elementai; Glaistai ir pastos pramonės reikmėms; Cheminiai mišiniai ir medžiagos mokslo reikmėms; Cheminės medžiagos, skirtos naudoti ugnies gesinimo mišiniuose; Termoplastiniai kompaundai; Cheminiai preparatai, skirti naudoti kosmetikos gamyboje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Līmvielas rūpnieciskiem nolūkiem; Ķīmiski un organiski sastāvi pārtikas un dzērienu ražošanai; Ķīmiskās vielas, ķīmiskie materiāli un ķīmiskie preparāti un dabiskie elementi; Špakteles, pildvielas un pastas rūpnieciskiem nolūkiem; Ķīmiskie līdzekļi un materiāli zinātniskiem nolūkiem; Ķimikālijas ugunsdzēšanas maisījumiem; Termoplastiskie savienojumi; Ķīmiskās vielas kosmētikas preču ražošanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Adeżivi għall-użu fl-industrija; Kompożizzjonijiet kimiċi u organiċi għall-użu fil-manifattura ta' ikel u xorb; Sustanzi kimiċi, materjali kimiċi u preparazzjonijiet kimiċi, u elementi naturali; Stokk, u sustanzi li timla bihom u pejsts għall-użu fl-industrija; Kompożizzjonijiet kimiċi u materjali għall-użu fix-xjenza; Kimiċi għall-użu fil-kompożizzjonijiet għat-tifi tan-nar; Komposti termoplastiċi; Preparazzjonijiet għall-użu fil-manifattura tal-kosmetika.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Kleefstoffen voor industrieel gebruik; Chemische en organische samenstellingen voor gebruik bij de vervaardiging van voedsel en dranken; Chemische substanties, chemische materialen en chemische preparaten en natuurlijke elementen; Stopverf, vulmiddelen en pasta's voor industrieel gebruik; Chemische samenstellingen en materialen voor wetenschappelijk gebruik; Chemische producten voor gebruik in brandblusmiddelen; Thermoplastische samenstellingen; Chemische preparaten voor gebruik bij de vervaardiging van cosmetische producten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kleje i preparaty klejące przeznaczone dla przemysłu; Mieszaniny chemiczne i organiczne do użytku w produkcji żywności i napojów; Substancje, materiały i preparaty chemiczne oraz surowce naturalne; Kity, wypełniacze i pasty przeznaczone dla przemysłu; Składniki i materiały chemiczne do celów naukowych; Chemikalia do użytku w mieszankach do gaszenia ognia; Mieszaniny termoplastyczne; Preparaty chemiczne do użytku w produkcji kosmetyków.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Matérias adesivas para uso na indústria; Compostos químicos e orgânicos para uso no fabrico de alimentos e bebidas; Substâncias químicas, materiais químicos e preparações químicas e elementos naturais; Betumes, materiais de enchimento e massas para uso na indústria; Compostos e materiais químicos para uso na ciência; Produtos químicos destinados a preparações para extinção de incêndios; Compostos termoplásticos; Preparações químicas para uso na manufatura de produtos cosméticos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Adezivi pentru uz industrial; Compoziții și substanțe chimice și organice destinate utilizării la fabricarea de alimente și de băuturi; Substanțe, produse și preparate chimice și elemente naturale; Chituri și substanțe de umplere pentru uz industrial; Compoziții chimice și materiale utilizate pentru scopuri științifice; Produse chimice folosite în compozițiile pentru stingerea incendiilor; Compuși termoplastici; Preparate chimice folosite la fabricarea produselor cosmetice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Adhezíva používané v priemysle; Chemické a organické zlúčeniny používané pri výrobe jedla a nápojov; Chemické látky, chemické materiály a chemické prípravky a prírodné prvky; Tmely, výplne a hmoty na priemyselné použitie; Chemické kompozície a materiály na vedecké účely; Chemikálie pre použitie v hasiacich zmesiach; Termoplastové zlúčeniny; Chemické prípravky určené na použitie pri výrobe kozmetiky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Lepila za uporabo v industriji; Kemične in organske spojine za uporabo v proizvodnji hrane in pijače; Kemične snovi, kemični materiali in preparati in naravni kemijski elementi; Kiti, polnila in kleji za uporabo v industriji; Kemične snovi in materiali za uporabo v znanosti; Kemikalije, ki se uporabljajo v kompozitih za gašenje ognja; Termoplastični sestavki; Kemični pripravki, ki se uporabljajo v proizvodnji kozmetičnih izdelkov.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Bindemedel för industriell användning; Kemiska och organiska sammansättningar för användning i samband med tillverkning av livsmedel och drycker; Kemiska substanser, kemiska material och kemiska preparat, samt naturliga ämnen; Spackel, fyllnadsmedel och massor för industriell användning; Kemiska sammansättningar och material för användning i vetenskap; Kemikalier för användning i sammansättningar för eldsläckning; Termoplastiska sammansättningar; Kemikalier för användning vid tillverkning av kosmetiska sammansättningar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>42</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Продуктови проучвания и разработки; Услуги свързани с проучване и разработване на нови продукти; Консултантски услуги в областта на технологичното развитие.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Výzkum a vývoj výrobků; Služby v oblasti výzkumu a vývoje; Konzultační služby v oblasti technologického vývoje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Produktforskning og -udvikling; Forsknings- og udviklingsvirksomhed; Rådgivning vedrørende teknologisk udvikling.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Erforschung und Entwicklung von Produkten; Forschungs- und Entwicklungsdienste; Beratung im Bereich der technologischen Entwicklung.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Έρευνα και ανάπτυξη προϊόντων· Υπηρεσίες έρευνας και ανάπτυξης· Υπηρεσίες παροχής συμβουλών στον τομέα της τεχνολογικής ανάπτυξης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Product research and development; Research and development services; Consultancy services in the field of technological development.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Investigación y desarrollo de productos; Servicios de investigación y desarrollo; Servicios de consultoría en el ámbito del desarrollo tecnológico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Toodete teadus- ja arendustegevus; Teadus- ja arendustegevusteenused; Tehnoloogilise arendamise konsultatsiooniteenused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Tuotetutkimus ja -kehittely; Tutkimus- ja kehittämispalvelut; Teknologian kehittämiseen liittyvät konsultointipalvelut.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Recherche et développement de produits; Services de recherche et développement de nouveaux produits pour les tiers; Services de conseils dans le domaine du développement technologique.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Istraživanje i razvoj proizvoda; Usluge istraživanja i razvoja; Konzultantske usluge u području tehnološkog razvoja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Termékkutatás és -fejlesztés; Kutatás és fejlesztés [szolgáltatások]; Technológiai fejlesztéssel kapcsolatos szaktanácsadási szolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Ricerca e sviluppo di prodotti; Servizi di ricerca e sviluppo; Servizi di consulenza nel settore dello sviluppo tecnologico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Produktų tyrimai ir plėtra; Tyrimų ir plėtros paslaugos; Konsultacijų paslaugos technologijų plėtros reikmėms.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Produktu pētniecība un izstrāde (R un D); Pētniecības un izstrādes pakalpojumi; Konsultāciju pakalpojumi tehnoloģijas izstrādes jomā.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Riċerka u żvilupp ta' prodotti; Servizzi ta' riċerka u żvilupp; Servizzi ta' konsulenza fil-qasam tal-iżvilupp teknoloġiku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Onderzoek en ontwikkeling van producten; Onderzoek- en ontwikkelingsdiensten; Adviesdiensten op het gebied van technologische ontwikkeling.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Prace badawczo-rozwojowe w zakresie produktów; Usługi badawczo-rozwojowe; Usługi doradztwa w dziedzinie rozwoju technologicznego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Investigação e desenvolvimento de produtos; Serviços de investigação e desenvolvimento; Serviços de consultadoria no domínio do desenvolvimento tecnológico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cercetare și dezvoltare de produs; Servicii de cercetare și dezvoltare; Servicii de consultanță în domeniul dezvoltării tehnologice.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Výskum a vývoj výrobkov; Služby v oblasti výskumu a vývoja; Konzultačné služby v oblasti technologického vývoja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Raziskave in razvoj izdelkov; Raziskovalne in razvojne storitve; Svetovalne storitve na področju tehnološkega razvoja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Produktforskning och -utveckling; Forsknings- och utvecklingstjänster; Konsultation avseende teknisk utveckling.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1140912</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>
