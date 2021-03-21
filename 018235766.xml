@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-07T08:44:38</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018235766</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018235766</ApplicationNumber>
+<ApplicationDate>2020-05-07</ApplicationDate>
+<RegistrationDate>2020-09-03</RegistrationDate>
+<ApplicationLanguageCode>en</ApplicationLanguageCode>
+<SecondLanguageCode>fr</SecondLanguageCode>
+<ExpiryDate>2030-05-07</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-07</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>VYLD</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>11</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Лампи; Осветителни апарати; Декоративно осветление; Абажури и стойки за лампи.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Svítidla; Přístroje na osvětlení; Dekorativní osvětlení; Stínidla a stojany na lampy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Lamper; Belysningsapparater; Dekorationsbelysning; Lampeskærme og -stativer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Beleuchtungslampen; Beleuchtungsgeräte; Dekorationsleuchten; Lampenschirme und -ständer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Φωτισμός (λαμπτήρες -ού)· Μονάδες φωτισμού· Φωτιστικά διακοσμητικά αντικείμενα· Ανταυγαστήρες (αμπαζούρ) και βάσεις για λαμπτήρες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Lamps; lighting; decorative lighting; lamp shades and stands.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Lámparas [aparatos de iluminación]; Aparatos de iluminación; Iluminación decorativa; Pantallas y soportes de lámparas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Lambid [valgustid]; Valgustusaparaadid; Dekoratiivvalgustid; Lambivarjud ja -alused.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Lamput; Valaisinaparaatit; Koristevalot; Lampunvarjostimet ja -jalat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Lampes d'éclairage; Appareils d'éclairage; Luminaires décoratifs; Abat-jour et supports.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Rasvjetne svjetiljke; Rasvjetni uređaji; Dekorativna rasvjeta; Sjenila za svjetiljke i stalci.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Lámpák; Világítókészülékek; Dekorációs fények, világítóeszközök; Lámpaernyők és állványok.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Lampade per illuminazione; Apparecchi per illuminazione; Luci decorative; Paralumi e supporti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Lempos; Apšvietimo aparatai; Dekoratyvinės lempos; Lempų gaubtai ir stovai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Lampas; Apgaismes ķermeņi; Dekoratīva apgaismojuma ierīces; Lampu abažūri un statīvi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Lampi; Apparat għat-tidwil; Dwal dekorattivi; Paralumi u stends.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Lampen voor verlichting; Verlichtingsapparaten; Decoratieve verlichting; Lampenkappen en -standaards.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Lampy oświetleniowe; Urządzenia oświetleniowe; Oświetlenie dekoracyjne; Abażury i stojaki do lamp.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Lâmpadas; Aparelhos de iluminação; Luzes decorativas; Quebra-luzes e bases de candeeiros.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Lămpi de iluminat; Aparate de iluminat; Lumini decorative; Abajururi și suporturi pentru lămpi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Lampy; Osvetľovacie prístroje; Ozdobné svetlá; Tienidlá a stojany na lampy.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Svetilke; Aparati za razsvetljavo; Dekorativne luči; Senčniki in stojala za svetilke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Lampor; Apparater för belysning; Prydnadsbelysning; Lampskärmar och stativ.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>20</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Мебели; Мебели за хол; Мебели за дома; Маси; Седалки; Шезлонги; Ниски маси; Легла; Възглавници; Меки текстилни изделия за мебелировка; Подложки [възглавници]; Oгледала (посребрено стъкло); Рамки за снимки и картини.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nábytek; Nábytek do obývacích pokojů; Nábytek pro domácnost; Stoly; Židle; Sofa; Konferenční stolky; Postele; Polštáře (na spaní); Bytový textil; Polštáře (dekorační); Zrcadla; Rámečky na fotky a obrázky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Møbler; Dagligstuemøbler; Møbler til husholdning; Borde; Stole; Sofaer; Kaffeborde; Senge; Hovedpuder; Bløde møbelstoffer; Puder; Spejle (forsølvet glas); Foto- og billedrammer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Möbel; Wohnzimmermöbel; Möbel für den Haushalt; Tische; Stühle; Sofas; Couchtische; Betten [Möbel]; Kopfkissen; Wohnraumtextilien; Kissen; Spiegel [versilbertes Glas]; Foto- und Bilderrahmen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Έπιπλα· Έπιπλα σαλονιού· Οικιακά έπιπλα· Τραπέζια· Καθίσματα· Ξαπλώστρες [σεζ-λονγκ]· Τραπέζια σαλονιού· Κλίνες· Μαξιλάρια ύπνου· Υφασμάτινα είδη επίπλωσης· Μαξιλάρια· Καθρέπτες (επαργυρωμένο γυαλί)· Πλαίσια (κορνίζες) για φωτογραφίες και εικόνες.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Furniture; living room furniture; household furniture; tables; chairs; sofas; coffee tables; beds; pillows; soft furnishings; cushions; mirrors; picture and photo frames.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Piezas de mobiliario; Muebles de cuartos de estar; Mobiliario doméstico; Mesas; Sillas [asientos]; Sofás; Mesas de centro; Camas; Almohadas; Artículos de mobiliario blandos; Almohadones; Espejos (vidrio argentado); Marcos de fotografías.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Mööbel; Elutoamööbel; Kodumööbel; Lauad; Istmed; Sohvad, diivanid; Diivanilauad; Voodid; Padjad; Kodutekstiilid; Istme-, sohvapadjad; Peeglid (hõbetatud klaas); Pildi- ja fotoraamid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Huonekalut; Olohuoneen kalusteet; Kodin huonekalut; Pöydät; Tuolit; Sohvat; Sohvapöydät; Sängyt; Tyynyt; Pehmeät kalusteet; Tyynyt; Peilit (hopeoitu lasi); Kuva- ja valokuvakehykset.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Meubles; Mobilier de salon et séjour; Mobilier de maison; Tables; Sièges; Sofas; Tables basses; Lits; Oreillers; Tissus d'ameublement; Coussins; Miroirs (verre argenté); Cadres pour photographies et images.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Namještaj; Namještaj za dnevnu sobu; Kućni namještaj; Stolovi; Sjedala; Sofe; Niski stolići; Kreveti; Uzglavlja; Tekstilna roba za kućanstvo; Jastuci; Ogledala (posrebreno staklo); Okviri za fotografije i slike.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Bútorok; Nappali bútorok; Háztartási bútor; Asztalok; Székek [ülések]; Kanapék; Dohányzóasztalok; Ágyak; Párnák, fejpárnák; Kárpitozott bútorzat; Párnák, díszpárnák; Tükrök (ezüstözött üveg); Fénykép- és képkeretek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Mobilia; Mobili per soggiorni; Mobili per la casa; Tavole; Sedie [sedili]; Sofà; Tavolini da salotto; Letti; Guanciali; Tessuti da arredamento; Cuscini; Specchi (vetro argentato); Cornici per quadri e fotografie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Baldai; Svetainės baldai; Buitinės paskirties baldai; Stalai; Sėdynės; Sofos; Kavos staliukai; Lovos; Pagalvės; Galionai; Pagalvės [lovų]; Veidrodžiai; Fotonuotraukų ir paveikslų rėmai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Mēbeles; Dzīvojamās istabas mēbeles; Mājsaimniecību mēbeles; Galdi; Sēdekļi; Nelieli dīvāniņi; Kafijas galdiņi; Gultas; Spilveni; Polsterējuma maretiāls; Dekoratīvie spilveni; Spoguļi; Fotogrāfiju un attēlu rāmji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Għamara; Għamara għas-salott; Għamara domestika; Mwejjed; Sedili; Sufani; Imwejjed tal-kafé; Sodod; Mħaded; Affarijiet għad-dar tad-drapp bħal purtieri u twapet; Kuxxini; Mirja (silvered glass); Gwarniċi tar-ritratti u tal-inkwatri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Meubelen; Zitkamermeubilair; Huishoudelijk meubilair; Tafels; Stoelen; Sofa's; Salontafels; Bedden; Hoofdkussens; Woningtextiel; Zit- of sierkussens; Spiegels (verzilverd glas); Lijsten voor foto's en prenten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Meble; Meble do salonu; Meble domowe; Stoły; Siedzenia [meble]; Kanapy; Stoliki kawowe; Łóżka; Wezgłowia; Koronkowe ozdoby; Poduszki; Lustra (srebrzone szkło); Ramy do fotografii i obrazów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Mobiliário; Mobiliário para salas de estar; Mobiliário doméstico; Mesas; Cadeiras [assentos]; Sofás; Mesas de centro; Camas; Almofadas de cama; Móveis macios; Almofadas [travesseiros]; Espelhos (vidro prateado); Molduras para fotografias e quadros.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Piese de mobilier; Mobilier pentru cameră de zi; Mobilier de uz casnic; Mese; Scaune; Şezlonguri pentru transatlantice; Măsuţe; Paturi; Perne; Mobile tapitate; Perne decorative; Oglinzi (sticlă argintată); Rame de fotografii şi tablouri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nábytok; Nábytok do obývacích izieb; Nábytok pre domácnosť; Stoly; Sedadlá; Sofy; Konferenčné stolíky; Postele; Vankúše; Lemovky; Podušky; Zrkadlá; Rámy na obrazy a fotografie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Pohištvo; Pohištvo za dnevno sobo; Stanovanjsko pohištvo; Mize; Sedeži; Zofe; Klubske mizice; Postelje; Vzglavne blazine; Mehka oprema za blazinjenje; Blazine; Ogledala (posrebreno steklo); Okviri za fotografije in slike.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Möbler; Vardagsrumsmöbler; Möbler för hemmet; Bord; Säten; Fåtöljer; Soffbord; Sängar; Kuddar; Mjuka möbeltyger; Dynor; Speglar (försilvrat glas); Foto- och bildramar.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>21</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Домакински или кухненски съдове и уреди; Бутилки; Тирбушони, електрически и неелектрически; Бъркалки на коктейли; Шейкъри; Комплектни прибори за сол и черен пипер; Кани, не от благороден метал; Държачи за лист за меню; Подноси; Стъклария, порцеланови и керамични изделия; Грънчарски изделия.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nádoby a náčiní pro domácnost a kuchyň; Lahve; Vývrtky, elektrické i neelektrické; Tyčinky na míchání koktejlů; Šejkry; Slánky a pepřenky; Džbány; Stojánky na jídelní lístky; Tácy; Skleněné zboží, porcelán a hrnčířské zboží; Nádobí z kameniny.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Husholdnings- og køkkenredskaber samt beholdere; Flasker; Proptrækkere, elektriske og ikke-elektriske; Cocktailsrøreskeer; Cocktailshakere; Salt- og peberbøsser; Krukker; Menukortholdere; Bakker; Glasvarer, porcelæn og keramik; Lertøj.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Behälter und Geräte für den Haushalt und Küche; Flaschen; Korkenzieher, elektrisch und nicht elektrisch; Rührstäbchen für Cocktails; Mixbecher [Shaker]; Salz- und Pfefferstreuer; Kannen und Krüge; Speisekartenhalter; Tabletts; Glaswaren, Porzellan und Steingutwaren; Steingutware.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μικρά σκεύη και δοχεία οικιακής και μαγειρικής χρήσης· Φιάλες· Ανοιχτήρια· Αναδευτήρες για κοκτέιλ· Αναμίκτες χειροκίνητοι [σέικερ]· Αλατιέρες και πιπεριέρες· Κανάτες, όχι από πολύτιμα μέταλλα· Καταλόγων (Μενού θήκες -)· Δίσκοι· Είδη υαλοποιίας, πορσελάνης και φαγεντιανά· Επιτραπέζια σκεύη.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Household or kitchen containers and utensils; bottles; corkscrews; cocktail stirrers; cocktail shakers; salt and pepper cellars; jugs; menu card holders; trays; glassware, porcelain and earthenware; crockery.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Recipientes y utensilios para el hogar en general o la cocina; Botellas; Sacacorchos, eléctricos y no eléctricos; Agitadores de cóctel; Cocteleras; Saleros y pimenteros; Jarras; Portamenús; Bandejas; Artículos de cristalería, porcelana y loza; Artículos de loza.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Anumad ja seadmed majapidamisse ning kööki; Pudelid; Elektrilised ja mitteelektrilised korgitsad; Kokteilisegamispulgad; Šeikerid, raputid; Soola- ja pipratoosid; Kannud; Menüükaaned, menüühoidikud; Kandikud; Klaas-, portselan- ja savinõud; Savinõud.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Talous- tai keittiöastiat ja -välineet; Pullot; Korkkiruuvit, sähkökäyttöiset ja ei-sähkökäyttöiset; Cocktail-sekoittimet; Cocktailravistimet; Suola- ja pippuriastiat; Kannut; Ruokalistanpitimet; Tarjottimet; Lasitavarat, posliini ja keramiikka; Savitavara.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Récipients et ustensiles pour le ménage ou la cuisine; Bouteilles; Tire-bouchons, électriques et non électriques; Mélangeurs à cocktails; Mélangeurs pour boissons [shakers]; Salières et poivrières; Cruchons; Porte-menus; Tablette; Verrerie, porcelaine et faïence; Faïence.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Pribor i posuđe za kućanstvo ili za kuhinju; Boce; Vadičepi, električni i neelektrični; Štapići za miješanje koktela; Posude za miješanje koktela; Posude za sol i papar; Pehari (bokali) za piće; Stalci za jelovnike; Pladnjevi; Staklarija, porculan i zemljano posuđe; Zemljano posuđe.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Eszközök, edények és tartályok háztartási és konyhai célokra; Palackok; Dugóhúzók, elektromos és nem elektromos; Koktélkeverők; Kézi keverőpalackok [koktél shaker]; Só- és paprikaszórók; Kancsók; Étlaptartók; Tálcák; Üvegáru, porcelán és agyagáru; Agyagedények.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Recipienti e utensili per la casa e la cucina; Bottiglie; Cavatappi, elettrici e non elettrici; Bastoncini per cocktail; Mescolatori per bevande [shakers]; Saliere e pepiere; Brocchette; Porta-menù; Vassoi; Vetreria, oggetti in porcellana e terracotta; Faenza [ceramica].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Namų apyvokos ir virtuvės indai ir prietaisai; Buteliai; Elektriniai ir ne elektriniai kamščiatraukiai; Kokteilių maišymo lazdelės; Kokteilių plaktuvės; Druskinės ir pipirinės; Ąsočiai; Valgiaraščių apdarai; Padėklai; Stiklo, porceliano ir fajanso indai; Keraminiai indai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Trauki un ierīces mājsaimniecībai un virtuvei; Pudeles; Korķviļķi, elektriski un ne elektriski; Nūjiņas kokteiļu maisīšanai; Kokteiļu maisītāji; Sāls un piparu trauki; Krūzes ar osu; Ēdienkaršu turētāji; Paplātes; Izstrādājumi no stikla, porcelāna, fajansa un keramikas; Māla trauki.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Għodod għad-dar, għall-kċina u għat-tojlit, kontenituri għal skopijiet domestiċi u tal-kċina; Fliexken; Trabixù, tal-elettriku u mhux tal-elettriku; Stikek tal-koktejl biex tħawwad; Xejkers; Xejkers tal-melħ u tal-bżar; Ġarra; Sostenn tal-menù; Gabarrejiet; Oġġetti tal-ħġieġ, porċellana u tal-fuħħar; Reċipjenti tax-xaqquf.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Gerei en vaatwerk voor de huishouding of de keuken; Flessen; Kurkentrekkers; Cocktailprikkers; Cocktailshakers; Zout- en pepervaatjes; Drinkkruiken; Menukaarthouders; Dienbladen; Glas-, porselein- en aardewerk; Aardewerk.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Przybory kuchenne i gospodarstwa domowego oraz pojemniki; Butelki; Elektryczne i nieelektryczne korkociągi; Mieszadełka do koktajli; Naczynia do mieszania koktajli [shakery]; Solniczki i pieprzniczki; Dzbanki; Okładki, uchwyty na karty menu; Tace; Wyroby szklane, porcelana i wyroby ceramiczne; Naczynia ceramiczne.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Recipientes e utensílios para uso doméstico ou para a cozinha; Garrafas; Saca-rolhas, elétricos e não elétricos; Misturador para cocktails; Agitadores para cocktails; Saleiros e pimenteiros; Jarros; Suportes para ementas; Travessas; Artigos em vidro, porcelana e barro; Cerâmica em barro.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Ustensile si recipienti pentru menaj sau bucatarie; Sticle; Tirbuşoane, electrice şi neelectrice; Amestecătoare pentru cocktail-uri; Shakere; Seturi pentru piper şi sare; Stacane; Suporturi pentru lista de meniuri; Platouri; Obiecter din sticlă, porţelan şi ceramică; Faianţă (Obiecte din -).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nádoby a prístroje pre domácnosť a kuchyňu; Fľaše; Vývrtky (elektrické aj neelektrické); Koktailové tyčinky; Šejkre, ručné mixéry; Soľničky a koreničky; Džbány; Držiaky na jedálne lístky; Podnosy; Sklený tovar, porcelánový a kameninový tovar; Hrnčiarske výrobky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Posode ter priprave za gospodinjstvo in kuhinjo; Steklenice; Odpirači za steklenice (za plutovinaste zamaške), električni in neelektrični; Mešalne paličice za koktajle; Posodice za mešanje koktajlov; Solnice in poprnice; Vrči; Držala za jedilne liste; Pladnji; Steklenina, porcelan in lončenina; Lončenina.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Redskap och behållare för hushållsändamål samt köksgeråd; Flaskor; Korkskruvar, elektriska och icke-elektriska; Cocktailpinnar; Cocktailshakers; Salt- och pepparströare; Krus; Menyhållare; Brickor för hushållsändamål; Varor av glas, porslin och keramik; Bordsporslin.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>32</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Безалкохолни напитки; Бира; Води; Газирана вода.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nealkoholické nápoje; Pivo; Vody; Perlivé vody.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Ikke-alkoholholdige drikke; Øl; Vand; Kulsyreholdige vande.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Nichtalkoholische Getränke; Bier; Wässer; Kohlensäurehaltige Wässer.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μη αλκοολούχα ποτά· Ζύθος· Νερά· Ύδωρ αεριούχο.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Non-alcoholic drinks; beer; water; sparkling water.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Bebidas no alcohólicas; Cerveza; Aguas; Agua con gas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Alkoholivabad joogid; Õlu; Veed; Gaseeritud vesi, gaseervesi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Alkoholittomat juomat; Olut; Vedet; Hiilihappovesi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Boissons sans alcool; Bières; Eaux; Eaux gazeuses.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Bezalkoholna pića; Pivo; Vode; Gazirana voda.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Alkoholmentes italok; Sörök; Vizek; Szénsavas víz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Bevande non alcoliche; Birre; Acque; Acque gassate.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Gaivieji gėrimai; Alus; Vanduo; Gazuotas vanduo.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Bezalkoholiskie dzērieni; Alus; Ūdeņi; Gāzēti ūdeņi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Xarbiet mhux alkoħoliċi; Birer; Ilmijiet; Ilma effervexxenti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Niet-alcoholische dranken; Bier; Waters; Koolzuurhoudende dranken.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Napoje bezalkoholowe; Piwo; Wody; Woda gazowana.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Bebidas sem álcool; Cerveja; Águas; Águas gasosas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Băuturi nealcoolice; Bere; Ape; Apă gazoasă [sifon].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nealkoholické nápoje; Pivo; Vody; Sýtené vody.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Brezalkoholne pijače; Pivo; Vode; Gazirana voda.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Icke alkoholhaltiga drycker; Öl; Vatten; Kolsyrat vatten.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>33</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Алкохолни напитки (с изключение на бира); Водка; Вино; Спиртни напитки; Ликьори.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Alkoholické nápoje (s výjimkou piv); Vodka; Víno; Lihoviny [nápoje]; Likéry.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Alkoholholdige drikke (dog ikke øl); Vodka; Vin; Spirituosa; Likører.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Alkoholische Getränke (ausgenommen Biere); Wodka; Weine; Spirituosen; Liköre.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Οινοπνευματώδη ποτά (εκτός ζύθου)· Βότκα· Κρασί· Αλκοολούχα δυνατά ποτά· Ηδύποτα.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Alcoholic beverages (except beers); vodka; wines; spirits; liqueurs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Bebidas alcohólicas (excepto cerveza); Vodka; Vinos; Bebidas espirituosas; Licores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Alkoholjoogid (v.a õlu); Vodka, viin; Vein; Piiritusjoogid; Liköörid.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Alkoholijuomat (paitsi oluet); Vodka; Viinit; Väkijuomat; Liköörit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Boissons alcoolisées (à l'exception des bières); Vodka; Vin; Spiritueux; Liqueurs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Alkoholna pića (osim piva); Votka; Vino; Žestoka pića (napitci); Likeri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Alkoholtartalmú italok (a sörök kivételével); Vodka; Borok; Szeszes italok; Likőrök.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Bevande alcoliche (escluse le birre); Vodka; Vino; Alcoolici; Liquori.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Svaigieji gėrimai (išskyrus alų); Degtinė [rusiška]; Vynas; Spiritiniai gėrimai; Likeriai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Alkoholiskie dzērieni (izņemot alu); Degvīns; Vīni; Spirtotie dzērieni; Liķieri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Xarbiet alkoħoliċi (minbarra birer); Vodka; Inbid; Spirti [xorb]; Likur.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Alcoholhoudende dranken (uitgezonderd bieren); Wodka; Wijn; Spiritualiën; Likeuren.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Napoje alkoholowe (z wyjątkiem piwa); Wódka; Wino; Alkohole wysokoprocentowe [napoje]; Likiery.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Bebidas alcoólicas (com excepção das cervejas); Vodka; Vinho; Bebidas espirituosas; Licores.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Băuturi alcoolice (cu excepţia berii); Votcă; Vin; Băuturi spirtoase; Lichioruri.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Alkoholické nápoje s výnimkou piva; Vodka; Víno; Liehoviny; Likéry.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Alkoholne pijače (razen piva); Vodka; Vino; Žgane alkoholne pijače; Likerji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Alkoholhaltiga drycker (ej öl); Vodka; Viner; Sprit [drycker]; Likörer.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>GB</PriorityCountryCode>
+<PriorityNumber>UK00003487521</PriorityNumber>
+<PriorityDate>2020-05-06</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/099</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-27</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/169</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-09-04</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1085356</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>84076</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

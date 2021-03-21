@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-08-17T08:58:44</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018264210</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018264210</ApplicationNumber>
+<ApplicationDate>2020-06-30</ApplicationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="22" status="1">Application published</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-17</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Active Coating</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Реклама и рекламни услуги, насърчаване на продажбите, връзки с обществеността, маркетинг, рекламно консултиране, посредничество във връзка с реклама, събиране на информация във връзка с реклама, проучвания във връзка с реклама и маркетинг, рекламна информация, онлайн реклама на услуги и стоки на уебсайтове.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Propagační činnost, reklama a reklamní služby, podpora prodeje, styk s veřejností (public relations), marketing, poradenství s ohledem na reklamu, zprostředkovatelské služby s ohledem na reklamu, průzkum v souvislosti s reklamou a marketingem, informace o reklamě, on-line reklama pro služby a výrobky na webových stránkách.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Annonce- og reklamevirksomhed, salgsfremmende foranstaltninger, PR-virksomhed, markedsføring, reklamerådgivning, reklameformidling, indsamling af information vedrørende reklame, undersøgelser i forbindelse med reklame og markedsføring, oplysninger vedrørende reklame, online-reklame for tjenesteydelser og varer på websteder.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Werbung und Werbedienstleistungen, Verkaufsförderung, Öffentlichkeitsarbeit, Marketing, Beratung in Bezug auf Werbung, Vermittlungsdienste in Bezug auf Werbung, Sammeln von Informationen in Bezug auf Werbung, Nachforschungen im Zusammenhang mit Werbung und Marketing, Auskünfte über Werbung, Online-Werbung für Dienstleistungen und Waren auf Websites.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Διαφήμιση και παροχή υπηρεσιών στον τομέα της διαφήμισης, προώθηση πωλήσεων, δημόσιες σχέσεις, υπηρεσίες εμπορίας (μάρκετινγκ), υπηρεσίες παροχής συμβουλών σε θέματα διαφήμισης, υπηρεσίες διαμεσολάβησης σε σχέση με διαφήμιση, υπηρεσίες συλλογής πληροφοριών σε σχέση με τη διαφήμιση, υπηρεσίες έρευνας σε σχέση με τη διαφήμιση και την εμπορία (μάρκετινγκ), υπηρεσίες παροχής ενημέρωσης σχετικά με τη διαφήμιση, επιγραμμική διαφήμιση σε σχέση με υπηρεσίες και προϊόντα σε ιστοθέσεις.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Advertising and advertising services, sales promotion, public relations, marketing, consultancy relating to advertising, intermediary services relating to advertising, collection of information relating to advertising, research services relating to advertising and marketing, information in the field of advertising, providing of space on websites for advertising goods and services.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Publicidad y servicios en materia de publicidad, servicios de promociones publicitarias, relaciones públicas, mercadotecnia, servicios de asesoramiento y consultoría relacionada con la publicidad, servicios de intermediario en relación con la publicidad, recopilación de información en relación con la publicidad, investigaciones relacionadas con la publicidad y la mercadotecnia, servicios de información en materia de publicidad, publicidad en línea para servicios y productos de páginas web.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Reklaam ja reklaamiteenused, müügiedendus, suhtekorraldus, turundus, nõustamine seoses reklaamiga, reklaamivahendusteenused, reklaamiteabe kogumine, reklaami ja turundusega seotud uuringuteenused, reklaamiteave, kaupade ja teenuste reklaamimine veebisaitidel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Mainonta ja mainospalvelut, myynninedistäminen, suhdetoiminta, markkinointi, mainontaan liittyvä neuvonta, mainontaan liittyvät välityspalvelut, mainontaan liittyvien tietojen keräys, tutkimukset mainonnan ja markkinoinnin yhteydessä, mainontaan liittyvä tiedotus, palveluiden ja tavaroiden online-mainonta verkkosivusoilla.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Publicité et services publicitaires, promotion de ventes, relations publiques, marketing, conseil en relation avec la publicité, services de courtage en relation avec la publicité, collecte d'informations en relation avec la publicité, recherches en relation avec la publicité et le marketing, renseignements sur de la publicité, publicité en ligne pour services et produits sur des sites web.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Promidžba i promidžbene usluge, poticanje prodaje, odnosi s javnošću, marketing, savjetovanje u vezi s promidžbom, usluge posredovanja u vezi s promidžbom, prikupljanje informacija u vezi s promidžbom, istraživanja u vezi s promidžbom i marketingom, pružanje informacija o promidžbi, internetska promidžba za usluge i proizvode na internetskim stranicama.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Reklámozás és reklámozási szolgáltatások, értékesítés, közönségszolgálat, marketing, reklámozásra vonatkozó tanácsadási szolgáltatások, reklámozással kapcsolatos közvetítési szolgáltatások, reklámozásra vonatkozó információk gyűjtése, reklámozással és marketinggel kapcsolatos kutatások, reklámozással kapcsolatos tájékoztatás, szolgáltatások és termék online reklámozása weboldalakon.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Pubblicità e servizi in materia pubblicitaria, promozione delle vendite, attività di pubbliche relazioni, marketing, consulenza in materia di pubblicità, servizi d'intermediari relativi alla pubblicità, raccolta di informazioni relative a pubblicità, ulteriori ricerche con riferimento a pubblicità e marketing, informazioni in materia di pubblicità, pubblicità via Internet per servizi e merci su siti web.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Reklama ir reklamos paslaugos, pardavimo skatinimas, viešieji ryšiai, rinkodara, konsultacijos, susijusios su reklama, tarpininkavimo paslaugos, susijusios su reklama, informacijos rinkimas reklamos srityje, tyrimai, susiję su reklama ir rinkodara, informacija apie reklamą, internetinė prekių ir paslaugų reklama interneto svetainėse.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Reklāma un reklāmas pakalpojumi, sekmēšanas pakalpojumi, sabiedriskās attiecības, tirgvedības pakalpojumi, padomi reklāmas jomā, starpniecības pakalpojumi reklāmas jomā, informācijas vākšana saistībā ar reklāmu, izpēte saistībā ar reklāmu un mārketingu, informācijas pakalpojumi reklāmas sfērā, tiešsaistes reklāma par pakalpojumiem un precēm tīmekļa vietnēs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Pubbliċità u servizz ta' pubbliċità, promozzjoni tal-bejgħ, relazzjonijiet pubbliċi, kummerċjalizzazzjoni, konsulenza relatata ma' pubbliċità, servizzi ta' medjazzjoni relatati mal-pubbliċità, ġbir ta' informazzjoni relatata ma' pubbliċità, riċerka relatata ma' pubbliċità u kummerċjalizzazzjoni, informazzjoni dwar pubbliċità, pubbliċità online għal servizzi u prodotti fuq siti web.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Reclame en reclamediensten, verkooppromotie, public relations, marketing, reclameadvisering, bemiddelingsdiensten met betrekking tot reclame, verzameling van informatie met betrekking tot reclame, onderzoek met betrekking tot reclame en marketing, inlichtingen op het gebied van reclame, onlinereclame voor diensten en goederen op websites.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Reklama i usługi reklamowe, promocja sprzedaży, public relations, marketing, doradztwo w zakresie działalności reklamowej, usługi pośrednictwa związane z reklamowaniem, gromadzenie informacji w odniesieniu do reklamy, badania związane z reklamą i marketingiem, usługi informacyjne dotyczące reklamy, reklama online usług i towarów na stronach internetowych.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Publicidade e serviços publicitários, promoção de vendas, relações públicas, marketing, consultoria relacionada com publicidade, serviços intermediários relacionados com publicidade, recolha de informação relacionada com publicidade, pesquisa relacionada com publicidade e marketing, informação sobre publicidade, publicidade online para serviços e produtos em páginas web.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Publicitate și servicii de publicitate, promoții de vânzare, relații publice, marketing, consultanță în legătură cu publicitatea, servicii de intermediere în legătură cu publicitatea, colectare de informații în legătură cu publicitatea, cercetări în legătură cu publicitatea și marketingul, informații despre publicitate, publicitate online pentru servicii și produse pe site-uri web.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Reklamné služby, podpora predaja, vzťahy s verejnosťou, marketing, poradenstvo v oblasti reklamných služieb, sprostredkovateľské služby so zameraním na reklamné služby, zbieranie informácií so zameraním na reklamné služby, prieskumy so zameraním na reklamné služby a marketing, informácie o reklamných službách, on-line reklamné služby pre služby a tovary na webových stránkach.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Oglasna dejavnost in oglasne storitve, pospeševanje prodaje, odnosi z javnostmi, storitve trženja, svetovanje v zvezi z oglasno dejavnostjo, posredniške storitve v zvezi z oglasno dejavnostjo, zbiranje informacij v zvezi z oglasno dejavnostjo, raziskave v zvezi z oglasno dejavnostjo in storitvami trženja, informacije o oglasni dejavnosti, spletna oglasna dejavnost za storitve in blago na spletnih straneh.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Annons- och reklamverksamhet, säljfrämjande tjänster, PR-tjänster, marknadsföringstjänster, rådgivningstjänster avseende reklam, insamling av information med avseende på reklam, efterforskning i samband med reklam och marknadsföringstjänster, upplysningar avseende reklam, direktansluten reklam för tjänster och varor på webbplatser.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>37</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Почистване на сгради, Поддръжка и ремонт на сгради, Услуги за полиране за сгради, Контрол на вредители, свързани със сгради, Хигиенно почистване [на сгради], Дезинфекция на сгради срещу активност на вредители, Дезинфекция на сгради срещу бактериални зарази, Боядисване и декориране на сгради, Хидроизолационно уплътняване на сгради.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Úklid objektů, Údržba a opravy budov, Zasklívací služby pro budovy, Hubení škůdců v budovách, Hygienické čištění (budov), Fumigace budov proti škůdcům, Dezinfekce budov proti bakteriálnímu zamoření, Služby malování a dekorace budov, Hydroizolace [stavebnictví].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Bygningsrengøring, Vedligeholdelse og reparation af bygninger, Glarmesterarbejde i forbindelse med bygninger, Skadedyrsbekæmpelse i forbindelse med bygninger, Hygiejnisk rengøring af bygninger, Desinfektion af bygninger mod skadedyrsangreb, Desinficering af bygninger mod bakterielle skadedyrsangreb, Virksomhed vedrørende maling og udsmykning af bygninger, Fugtsikring af bygninger.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Gebäudereinigung, Reparatur und Instandhaltung von Gebäuden, Glaserarbeiten für Gebäude, Schädlingsbekämpfung in Gebäuden, hygienische Reinigung von Gebäuden, Begasung von Gebäuden zur Schädlingsbekämpfung, Desinfizierung von Gebäuden gegen Bakterienbefall, Maler- und Dekorarbeiten an Gebäuden, Feuchtigkeitsisolierung von Gebäuden.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καθαρισμοί κτιρίων, Συντήρηση και επισκευή κτιρίων, Υπηρεσίες τοποθέτησης εξωτερικών υαλοπινάκων σε κτίρια, Ελεγχος επιβλαβών ζώων και ζωυφίων σε σχέση με κτίρια, Υγειονομικός καθαρισμός [κτίρια], Υποκαπνισμός κτιρίων κατά των επιβλαβών ζωυφίων και ζώων, Απολύμανση κτιρίων με σκοπό την καταπολέμηση της βακτηριακής μόλυνσης, Υπηρεσίες χρωματισμού και διακόσμησης κτιρίων, Κτηρίων στεγανοποίηση.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Cleaning of buildings, Building maintenance and repair, Glazing services for buildings, Pest control relating to buildings, Hygienic cleaning [buildings], Fumigation of buildings against vermin activity, Disinfection of buildings against bacterial infestation, Services for the painting and decorating of buildings, Building sealing.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Limpieza de edificios, Mantenimiento y reparación de edificios, Servicios de acristalamiento para edificios, Control de plagas relativo a edificios, Limpieza higiénica [edificios], Fumigación de edificios contra la actividad de animales dañinos, Desinfección en edificios contra infecciones bacterianas, Servicios relativos a la pintura y decoración de edificios, Impermeabilización de construcciones.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Ehitiste puhastamine, Ehitiste hooldus ja remont, Hoonete klaasimistööd, Ehitiste kahjurikontroll, Hoonete hügieeniline puhastamine, Hoonekahjurite suitsutõrje, Hoonete antibakteriaalne desinfitseerimine, Hoonete värvimise ja dekoreerimise teenused, Ehitiste tihendustööd, hermetiseerimine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Rakennusten siivous, Rakennusten huolto ja korjaus, Rakennusten lasituspalvelut, Rakennuksiin liittyvä tuholaistorjunta, Hygieeninen puhdistaminen [rakennusten], Rakennusten kaasutus syöpäläisten torjumiseksi, Rakennusten desinfiointi bakteeritartuntojen varalta, Rakennusten maalaus- ja koristelupalvelut, Rakennusten kosteuseristys.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Nettoyage de bâtiments, Entretien et réparation d'immeubles, Services de vitrage de bâtiments, Lutte contre les animaux nuisibles concernant les bâtiments, Assainissement hygiénique de bâtiments, Fumigation de bâtiments contre les animaux nuisibles, Désinfection de bâtiments contre les infestations bactériennes, Services de peinture et de décoration de bâtiments, Services d'étanchéité [construction].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Čišćenje zgrada, Održavanje i popravak zgrada, Staklarske usluge za zgrade, Uništavanje štetočina u zgradama, Higijensko čišćenje zgrada, Fumigacija zgrada protiv štetočina, Dezinfekcija zgrada protiv bakterijskih infestacija, Usluge bojenja i ukrašavanja zgrada, Izolacija zgrada od vlage.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Épülettakarítás, épülettisztítás, Épület karbantartás és javítás, Épületüvegezési szolgáltatások, Épületekkel kapcsolatos kártevőirtás, Higiénikus tisztítás [épületek], Épületek fumigációja férgek ellen, Épületek fertőtlenítése bakteriális fertőzések ellen, Épületfestési és -díszítési szolgáltatások, Épületszigetelés, épülettömítés.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Pulizia di edifici, Manutenzione e riparazione di edifici, Servizi di vetratura per edifici, Disinfestazioni riguardanti edifici, Pulizia igienica [edifici], Fumigazione di edifici per eliminazione di animali nocivi, Disinfezione di edifici contro infestazioni batteriche, Servizi riguardanti la pittura e la decorazione di edifici, Servizi per impermeabilità [costruzione].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Pastatų valymas, Pastatų priežiūra ir remontas, Pastatų stiklinimo paslaugos, Kenkėjų naikinimas pastatuose, Higieniškas valymas [pastatų], Pastatų fumigacija nuo parazitų, Pastatų dezinfekavimas nuo bakterinių užkratų, Pastatų dažymo ir dekoravimo paslaugos, Pastatų sandarinimas.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Ēku tīrīšanas pakalpojumi, Ēku apkope un remonts, Ēku iestiklošanas pakalpojumi, Ēku aizsardzība pret kaitēkļiem, Higiēniskā tīrīšana [ēku], Ēku izsvēpēšana kaitēkļu izplatības novēršanai, Ēku antibakteriāla dezinficēšana, Ēku krāsošanas un apdares pakalpojumi, Ēku hidroizolācijas darbi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Tindif ta' bini, Manutenzjoni u tiswija ta' bini, Servizzi ta' vitrar għall-bini, Kontroll ta' pesti dwar il-bini, Tindif iġeniku [bini], Fumigazzjoni ta' bini kontra attività ta' parassiti, Diżinfezzjoni ta' bini kontra infestazzjoni tal-batterji, Servizzi għat-tibjid u t-tiżjin tal-bini, Servizzi ta' iżolament (biex ma jgħaddix l-ilma mill-bini).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Reiniging van bouwwerken, Onderhoud en reparatie van gebouwen, Beglazen van gebouwen, Ongediertebestrijding met betrekking tot gebouwen, Reiniging (hygiënische -) [gebouwen], Uitzwaveling van gebouwen ter bestrijding van ongedierte, Ontsmetten van gebouwen tegen bacteriële aanwas, Schilderen en afwerken van gebouwen, Afdichtingswerkzaamheden [bouw].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Czyszczenie budynków, Konserwacja i naprawa budynków, Usługi szklenia budynków, Zwalczanie szkodników w budynkach, Czyszczenie higieniczne [budynki], Odymianie budynków przeciwko robactwu, Dezynfekcja budynków zapobiegająca plagom bakterii, Usługi w zakresie malowania i dekorowania budynków, Uszczelnianie budynków.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Limpeza de edifícios, Manutenção e reparação de edifícios, Serviços de envidraçamento para edifícios, Controlo de pragas relacionado com edifícios, Higienização de edifícios, Fumigação de edifícios para eliminação de parasitas, Desinfeção de edifícios contra infestações bacterianas, Serviços para a pintura e decoração de edifícios, Serviços de estanquecidade [construção].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Curățare de clădiri, Reparații și întreținere de clădiri, Servicii de montare de sticlă de geamuri pentru clădiri, Controlul dăunătorilor cu privire la clădiri, Curățare igienică [clădiri], Fumigarea clădirilor împotriva acțiunii dăunătorilor, Dezinfectarea clădirilor împotriva infestării bacteriene, Servicii de vopsire și decorare a clădirilor, Lucrări de etanșeizare [construcții].</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Čistenie budov, Údržba a opravy budov, Zasklievanie budov, Hubenie škodcov v budovách, Hygienické čistenie budov, Fumigácia budov proti škodcom, Dezinfekcia budov ako ochránia pred bakteriálnym zamorením, Maľovanie a ozdobovanie budov, Izolovanie proti vlhkosti (stavebníctvo).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Čiščenje stavb, Vzdrževanje in popravilo zgradb, Steklarska dela za stavbe, Zatiranje škodljivcev v zgradbah, Higiensko čiščenje stavb, Fumigacija zgradb proti škodljivcem, Razkuževanje stavb za preprečevanje bakterijske okužbe, Storitve za pleskanje in dekoracijo stavb, Tesnjenje zgradb.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Städning i byggnader, Underhåll och reparation av byggnader, Glasinsättning för byggnader, Bekämpning av skadedjur med avseende på byggnader, Hygienisk rengöring av byggnader, Skadedjurssanering av byggnader genom rökning, Desinficering av byggnader mot bakterieangrepp, Målnings- och dekorationsarbeten avseende byggnader, Fukttätning av byggnader.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/155</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-08-17</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1099070</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>11356</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

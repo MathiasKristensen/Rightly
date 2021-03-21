@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-09-30T10:58:27</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018306999</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018306999</ApplicationNumber>
+<ApplicationDate>2020-09-14</ApplicationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<MarkCurrentStatusCode milestone="2" status="1">Application under examination</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-09-15</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>SIPIT</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>30</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Кафе, чай и какао и техни заместители.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Káva, čaj, kakao a jejich náhražky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Kaffe, te, kakao og erstatninger herfor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Kaffee, Tee, Kakao und Ersatzstoffe hierfür.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Καφές, τσάι και κακάο και υποκατάστατα αυτών.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Coffee, teas and cocoa and substitutes therefor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Café, té, cacao y sucedáneos de los mismos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Kohv, tee ja kakao ning nende aseained.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Kahvi, tee ja kaakao ja niiden korvikkeet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Café, thés, cacao et leurs succédanés.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Kava, čajevi, kakao i njihovi nadomjesci.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kávé, tea, kakaó és helyettesítőik.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Caffè, tè e cacao e loro succedanei.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Kava, arbata ir kakava bei jų pakaitalai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Kafija, tēja, kakao un to aizstājēji.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Kafè, te u kawkaw u sostituti tagħhom.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Koffie, thee en cacao en vervangingsmiddelen hiervoor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Kawa, herbata, kakao i namiastki tych towarów.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Café, chás e cacau e substitutos dos mesmos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Cafea, ceaiuri, cacao și înlocuitori ai acestora.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Káva, čaj, kakao a ich náhradky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Kava, čaji in kakav ter nadomestki naštetega.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Kaffe, te och kakao och ersättningar därtill.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>32</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Безалкохолни напитки; Препарати за приготвяне на безалкохолни напитки; Бира и пивоварни продукти.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Nealkoholické nápoje; Přípravky pro výrobu nápojů; Pivo a pivovarnické výrobky.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Softdrinks; Ikke-alkoholholdige præparater til fremstilling af drikke; Øl og bryggeriprodukter.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Alkoholfreie Getränke; Alkoholfreie Präparate für die Zubereitung von Getränken; Bier und Brauereiprodukte.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Μη αλκοολούχα ποτά· Παρασκευάσματα ποτοποιίας· Μπύρα και προϊόντα ζυθοποιίας.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Soft drinks; Non-alcoholic preparations for making beverages; Beer and brewery products.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Bebidas refrescantes sin alcohol; Preparados para la elaboración de bebidas; Cervezas y sus derivados.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Alkoholivabad karastusjoogid; Alkoholivabad jookide valmistamise preparaadid; Õlu ja pruulikojatooted.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Virvoitusjuomat; Juomien valmistusaineet; Oluet ja panimotuotteet.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Boissons sans alcool; Préparations pour faire des boissons; Bière et produits de brasserie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Bezalkoholna pića; Pripravci za pripremu pića; Pivo i pivarski proizvodi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Üdítőitalok; Készítmények italokhoz; Sörök és sörtermékek.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Bevande non alcoliche; Preparati per fare bevande; Birre e prodotti derivati.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Nealkoholiniai gėrimai; Gaiviųjų gėrimų gaminimo preparatai; Alus ir alaus produktai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Bezalkoholiski gāzētie dzērieni; Sastāvdaļas dzērienu pagatavošanai; Alus un alus darītavu produkti.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Xarbiet mhux alkoħoliċi; Preparazzjonijiet biex isiru x-xarbiet; Birra u prodotti tal-birrerija.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Frisdrank; Niet alcoholische preparaten voor de bereiding van dranken; Bier en brouwerijproducten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Napoje bezalkoholowe; Bezalkoholowe preparaty do produkcji napojów; Piwo i produkty piwowarskie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Bebidas sem álcool; Preparações para fazer bebidas; Cerveja e produtos de cervejaria.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Băuturi nealcoolice; Băuturi [preparate pentru fabricarea -lor]; Bere și produse de bere.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Nealkoholické nápoje; Prípravky na výrobu nápojov; Pivo a pivovarnícke produkty.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Brezalkoholne pijače; Preparati za izdelavo pijač; Pivo in pivovarski proizvodi.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Läskedrycker; Preparat för tillverkning av drycker; Öl och bryggeriprodukter.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>33</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Алкохолни напитки (с изключение на бира); Алкохолни заготовки за приготвяне на напитки; Сайдер.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Alkoholické nápoje s výjimkou piva; Alkoholické přípravky pro výrobu nápojů; Cider.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Alkoholholdige drikke, undtagen øl; Alkoholholdige præparater til fremstilling af drikke; Cider.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Alkoholische Getränke, ausgenommen Bier; Alkoholische Präparate für die Zubereitung von Getränken; Apfelwein.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Αλκοολούχα ποτά (εκτός μπύρας)· Οινοπνευματώδη παρασκευάσματα για ποτά· Μηλίτης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Alcoholic beverages (except beer); Alcoholic preparations for making beverages; Cider.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Bebidas alcohólicas (excepto cervezas); Preparados alcohólicos para elaborar bebidas; Sidra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Alkoholjoogid, v.a õlu; Alkohoolsed joogivalmistusained; Siider.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Alkoholijuomat (paitsi oluet); Alkoholia sisältävät juomien valmistusaineet; Siiderit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Boissons alcoolisées à l'exception des bières; Préparations alcooliques pour la fabrication de boissons; Cidre.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Alkoholna pića (osim piva); Alkoholni pripravci za pripremanje napitaka; Jabukovača.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Alkoholos italok (sörök kivételével); Alkoholos készítmények italok készítéséhez; Almabor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Bevande alcoliche (eccetto le birre); Preparati alcolici per fare bevande; Sidro.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Svaigieji gėrimai [išskyrus alų]; Alkoholiniai gėrimų gaminimo preparatai; Sidras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Alkoholiskie dzērieni (izņemot alu); Alkoholiskas sastāvdaļas dzērienu pagatavošanai; Sidrs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Xarbiet alkoħoliċi (minbarra birra); Preparazzjonijiet alkoħoliċi għat-tħejjija tax-xorb; Sidru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Alcoholische dranken, uitgezonderd bier; Alcoholische preparaten voor de bereiding van dranken; Cider.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Napoje alkoholowe (z wyjątkiem piwa); Preparaty alkoholowe do sporządzania napojów; Cydr.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Bebidas alcoólicas (excluindo cerveja); Preparações alcoólicas para fazer bebidas; Cidra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Băuturi alcoolice (cu excepția berii); Preparate alcoolice pentru fabricarea băuturilor; Cidru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Alkoholické nápoje okrem piva; Alkoholické prípravky na výrobu nápojov; Jablčné mušty (alkoholické).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Alkoholne pijače (razen piva); Alkoholni pripravki za pripravo pijač; Jabolčni mošt (zavret).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Alkoholhaltiga drycker, inte öl; Alkoholhaltiga preparat för framställning av drycker; Cider.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1122648</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

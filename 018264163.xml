@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-16T10:16:41</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018264163</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018264163</ApplicationNumber>
+<ApplicationDate>2020-06-30</ApplicationDate>
+<RegistrationDate>2020-10-14</RegistrationDate>
+<ApplicationLanguageCode>it</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-06-30</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-10-16</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>PIETRAFOCAIA</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>33</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Вино; Алкохолни напитки (с изключение на бира); Алкохолни заготовки за приготвяне на напитки; Препарати за приготвяне на алкохолни напитки; Сайдер.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Víno; Alkoholické nápoje s výjimkou piva; Alkoholické přípravky pro výrobu nápojů; Přípravky k výrobě alkoholických nápojů; Cider.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Vin; Alkoholholdige drikke, undtagen øl; Alkoholholdige præparater til fremstilling af drikke; Præparater til fremstilling af alkoholholdige drikke; Cider.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Weine; Alkoholische Getränke, ausgenommen Bier; Alkoholische Präparate für die Zubereitung von Getränken; Alkoholische Präparate für die Zubereitung von Getränken; Apfelwein.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Κρασί· Αλκοολούχα ποτά (εκτός μπύρας)· Οινοπνευματώδη παρασκευάσματα για ποτά· Παρασκευάσματα για την παρασκευή αλκοολούχων ποτών· Μηλίτης.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Wine; Alcoholic beverages (except beer); Alcoholic preparations for making beverages; Preparations for making alcoholic beverages; Cider.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Vinos; Bebidas alcohólicas (excepto cervezas); Preparados alcohólicos para elaborar bebidas; Preparados para elaborar bebidas alcohólicas; Sidra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Vein; Alkoholjoogid, v.a õlu; Alkohoolsed joogivalmistusained; Alkohoolsete jookide valmistuspreparaadid; Siider.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Viinit; Alkoholijuomat (paitsi oluet); Alkoholia sisältävät juomien valmistusaineet; Alkoholijuomien valmistusaineet; Siiderit.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Vin; Boissons alcoolisées à l'exception des bières; Préparations alcooliques pour la fabrication de boissons; Préparations pour faire des boissons alcoolisées; Cidre.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Vino; Alkoholna pića (osim piva); Alkoholni pripravci za pripremanje napitaka; Pripravci za pripremu alkoholnih pića; Jabukovača.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Borok; Alkoholos italok (sörök kivételével); Alkoholos készítmények italok készítéséhez; Készítmények alkoholos italok készítéséhez; Almabor.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Vino; Bevande alcoliche (eccetto le birre); Preparati alcolici per fare bevande; Preparati per fare bevande alcoliche; Sidro.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Vynas; Svaigieji gėrimai [išskyrus alų]; Alkoholiniai gėrimų gaminimo preparatai; Svaigiųjų gėrimų gaminimo preparatai; Sidras.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Vīni; Alkoholiskie dzērieni, izņemot alu; Alkoholiskas sastāvdaļas dzērienu pagatavošanai; Sastāvdaļas alkoholisko dzērienu pagatavošanai; Sidrs.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Inbid; Xarbiet alkoħoliċi (minbarra birra); Preparazzjonijiet alkoħoliċi għat-tħejjija tax-xorb; Preparazzjonijiet biex tagħmel xarbiet alkoħoliċi; Sidru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Wijn; Alcoholische dranken, uitgezonderd bier; Alcoholische preparaten voor de bereiding van dranken; Preparaten voor het bereiden van alcoholische dranken; Cider.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Wino; Napoje alkoholowe (z wyjątkiem piwa); Preparaty alkoholowe do sporządzania napojów; Preparaty do produkcji napojów alkoholowych; Cydr.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Vinho; Bebidas alcoólicas (excluindo cerveja); Preparações alcoólicas para fazer bebidas; Preparações para produzir bebidas alcoólicas; Cidra.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Vin; Băuturi alcoolice (cu excepția berii); Preparate alcoolice pentru fabricarea băuturilor; Preparate pentru fabricarea băuturilor alcoolice; Cidru.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Víno; Alkoholické nápoje okrem piva; Alkoholické prípravky na výrobu nápojov; Prípravky na výrobu alkoholických nápojov; Jablčné mušty (alkoholické).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Vino; Alkoholne pijače (razen piva); Alkoholni pripravki za pripravo pijač; Pripravki za proizvodnjo alkoholnih pijač; Jabolčni mošt (zavret).</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Viner; Alkoholhaltiga drycker, inte öl; Alkoholhaltiga preparat för framställning av drycker; Preparat för tillverkning av alkoholhaltiga drycker; Cider.</GoodsServicesDescription>
+  </ClassDescription>
+  <ClassDescription>
+   <ClassNumber>35</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Услуги за продажба на дребно във връзка с алкохолни напитки; Търговия на храни на дребно; Услуги по продажба на дребно във връзка с деликатесни продукти; Рекламни, маркетингови и промоционални услуги; Търговско подпомагане, търговско управление и административни услуги; Рекламни услуги за стимулиране на електронна търговия.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Maloobchodní služby v oblasti alkoholických nápojů; Maloobchodní služby vztahující se k potravinám; Maloobchodní služby v oblasti lahůdek; Reklamní, marketingové a propagační služby; Pomoc v obchodní a podnikatelské činnosti, management a administrativní služby; Reklamní služby k propagaci elektronického obchodu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Detailhandel med alkoholdige drikke; Detailhandel i forbindelse med fødevarer; Detailhandel med delikatesseprodukter; Virksomhed vedrørende reklame, marketing og salgsfremstød; Bistand ved forretningsudførelse, -ledelse og -administration; Annonce- og reklamevirksomhed til promovering af e-handel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Einzelhandelsdienstleistungen in Bezug auf alkoholische Getränke; Einzelhandelsdienstleistungen in Bezug auf Lebensmittel; Einzelhandelsdienstleistungen in Bezug auf Feinkostwaren; Werbung, Marketing und Verkaufsförderung; Hilfe in Geschäftsangelegenheiten, Geschäftsführung und administrative Dienstleistungen; Werbung zur Förderung des elektronischen Handels.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Υπηρεσίες λιανικής πώλησης σχετικά με αλκοολούχα ποτά· Υπηρεσίες λιανικής πώλησης σε σχέση με τρόφιμα· Υπηρεσίες λιανικής πώλησης προϊόντων ντελικατέσεν· Διαφήμιση, ενέργειες πώλησης (μάρκετινγκ) και υπηρεσίες προώθησης· Επιχειρηματική υποστήριξη, υπηρεσίες διοίκησης και διαχείρισης· Υπηρεσίες διαφήμισης με σκοπό την προώθηση του ηλεκτρονικού εμπορίου.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Retail services relating to alcoholic beverages; Retail services relating to food; Retail services relating to delicatessen products; Advertising, marketing and promotional services; Business assistance, management and administrative services; Advertising services for the promotion of e-commerce.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Servicios de venta minorista de bebidas alcohólicas; Servicios de ventas al por menor relacionados con alimentos; Servicios de venta minorista de productos gourmet; Servicios promocionales, de marketing y publicidad; Servicios de asistencia, dirección y administración de negocios; Servicios publicitarios para la promoción del comercio electrónico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Alkoholjookide jaemüügiteenused; Toiduainete jaemüügiteenused; Delikatesstoodetega seotud jaemüügiteenused; Reklaam ja turundus; Ärijuhtimisteenused ja ärialane abi; Reklaamiteenused e-kaubanduse edendamiseks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Alkoholijuomien vähittäismyyntipalvelut; Elintarvikkeiden vähittäismyyntipalvelut; Herkkutuotteisiin liittyvät vähittäiskauppapalvelut; Mainonta-, markkinointi- ja myynninedistämispalvelut; Yritystoiminnan avustamis-, liikkeenjohto- ja hallintopalvelut; Mainontapalvelut sähköisen kaupankäynnin edistämiseen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Services de vente au détail de boissons alcooliques; Services de vente au détail d'aliments; Services de vente au détail de produits d’épicerie fine; Services de publicité, de marketing et de promotion; Services d'aide et de gestion des affaires et services administratifs; Services publicitaires pour la promotion du commerce électronique.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Usluge maloprodaje povezane s alkoholnim pićima; Maloprodajne usluge u svezi hrane; Maloprodajne usluge povezane s delikatesama; Usluge oglašavanja, marketinga i promidžbe; Usluge poslovne pomoći, upravljanja i administracije; Usluge oglašavanja radi promicanja e-poslovanja.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Kiskereskedelmi szolgáltatások alkoholos italokkal kapcsolatban; Élelmiszerekkel kapcsolatos kiskereskedelmi szolgáltatások; Csemegeárukkal kapcsolatos kiskereskedelmi szolgáltatások; Reklámozási, marketing és promóciós szolgáltatások; Üzleti segítségnyújtás, menedzseri és adminisztratív szolgáltatások; Elektronikus kereskedelem népszerűsítéséhez kapcsolódó reklámszolgáltatások.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Servizi di vendita al dettaglio relativi a bevande alcoliche; Servizi di vendita al dettaglio di prodotti alimentari; Servizi di vendita al dettaglio di specialità gastronomiche; Servizi pubblicitari, di marketing e promozionali; Assistenza negli affari, servizi gestionali ed amministrativi; Servizi pubblicitari per la promozione del commercio elettronico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Mažmeninė prekyba svaigiaisiais gėrimais; Mažmeninė prekyba maisto prekėmis; Mažmeninė prekyba delikatesais; Reklamos, rinkodaros ir pardavimų skatinimo paslaugos; Verslo pagalba, vadyba ir administravimas; Elektroninės prekybos skatinimo reklamos paslaugos.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Alkoholisko dzērienu mazumtirdzniecības pakalpojumi; Pārtikas mazumtirdzniecības pakalpojumi; Mazumtirdzniecības pakalpojumi, kas attiecas uz delikatešu produktiem; Reklāmas, tirgvedības un preču noieta veicināšanas pakalpojumi; Atbalsta, pārvaldības un biroju administratīvie pakalpojumi uzņēmējdarbībai; Reklāmas pakalpojumi elektroniskās komercijas veicināšanai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Servizzi ta' bejgħ bl-imnut relatat max-xorb alkoħoliku; Servizzi ta' bejgħ relatat mal-ikel; Servizzi ta’ bejgħ relatati ma’ prodotti tad-delicatessen; Servizzi ta' reklamar, kummerċjaliżżazzjoni u promozzjonali; Servizzi ta' assistenza, ġestjoni u amministrazzjoni fin-negozju; Servizzi tar-reklamar għall-promozzjoni tal-kummerċ elettroniku.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Detailhandelsdiensten met betrekking tot alcoholhoudende dranken; Detailhandel op het gebied van voedingsmiddelen; Detailhandelsdiensten op het gebied van delicatessen; Reclame, marketing en promotionele diensten; Commercieel-zakelijke assistentie, commercieel-zakelijk beheer en administratieve diensten; Reclame voor het promoten van e-commerce.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Usługi handlu detalicznego związane z napojami alkoholowymi; Usługi handlu detalicznego w zakresie żywności; Usługi sprzedaży detalicznej w zakresie produktów delikatesowych; Usługi reklamowe, marketingowe i promocyjne; Pomoc w prowadzeniu działalności gospodarczej, zarządzanie i administrowanie działalnością gospodarczą; Usługi reklamowe mające na celu promowanie handlu elektronicznego.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Serviços retalhistas relacionados com bebidas alcoólicas; Serviços de venda a retalho relacionados com alimentos; Serviços de venda a retalho relativos a produtos de charcutaria; Serviços de publicidade, de marketing e de promoção; Serviços de assistência, gestão e administração de negócios; Serviços de publicidade para a promoção do comércio eletrónico.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Servicii de vânzare cu amănuntul în legătură cu băuturi alcoolice; Servicii de vânzare cu amănuntul în domeniul alimentației; Servicii de vânzare cu amănuntul referitoare la delicatese; Servicii de publicitate, marketing și promovare; Asistență în afaceri, management și servicii administrative; Servicii de publicitate pentru promovarea comerțului electronic.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Maloobchodné služby s alkoholickými nápojmi; Maloobchodné služby spojené s predajom potravín; Maloobchodné služby súvisiace s lahôdkami; Reklamné, marketingové a propagačné služby; Pomoc pri podnikaní, riadenie podniku a obchodná správa; Reklamné služby na propagáciu elektronického obchodu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Maloprodajne storitve v zvezi z alkoholnimi pijačami; Maloprodajne storitve v zvezi s hrano; Maloprodajne storitve v zvezi z delikatesnimi izdelki; Oglaševalske, tržne in promocijske storitve; Poslovna asistenca, poslovno vodenje in administrativne storitve; Oglasne storitve za promocijo e-trgovine.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Återförsäljning avseende alkoholhaltiga drycker; Återförsäljning avseende mat; Återförsäljning avseende delikatessprodukter; Reklam, marknadsföring och säljfrämjande tjänster; Företagsassistans, -ledning och -administration; Reklam- och annonstjänster för främjande av näthandel.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/125</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-07-06</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/198</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-10-16</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>1100485</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>34468</Identifier>
+</RepresentativeKey>
+<RepresentativeKey>
+<Identifier>69271</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

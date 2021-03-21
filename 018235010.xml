@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction xmlns="http://euipo.europa.eu/trademark/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://euipo.europa.eu/trademark/data http://euipo.europa.eu/schemas/trademark/EM-TM-TradeMark-V3-4.xsd">
+<TransactionHeader>
+		<SenderDetails>
+			<RequestProducerDateTime>2020-10-26T08:48:37</RequestProducerDateTime>
+		</SenderDetails>
+	</TransactionHeader>
+<TradeMarkTransactionBody>
+<TransactionContentDetails>
+<TransactionIdentifier>018235010</TransactionIdentifier>
+<TransactionCode>EM-Trade Mark</TransactionCode>
+<TransactionData>
+<TradeMarkDetails>
+<TradeMark operationCode="Insert">
+<RegistrationOfficeCode>EM</RegistrationOfficeCode>
+<ApplicationNumber>018235010</ApplicationNumber>
+<ApplicationDate>2020-05-07</ApplicationDate>
+<RegistrationDate>2020-08-20</RegistrationDate>
+<ApplicationLanguageCode>de</ApplicationLanguageCode>
+<SecondLanguageCode>en</SecondLanguageCode>
+<ExpiryDate>2030-05-07</ExpiryDate>
+<MarkCurrentStatusCode milestone="23" status="1">Registered</MarkCurrentStatusCode>
+<MarkCurrentStatusDate>2020-08-24</MarkCurrentStatusDate>
+<KindMark>Individual</KindMark>
+<MarkFeature>Word</MarkFeature>
+<TradeDistinctivenessIndicator>false</TradeDistinctivenessIndicator>
+<WordMarkSpecification>
+<MarkVerbalElementText>Jenbacher</MarkVerbalElementText>
+</WordMarkSpecification>
+<GoodsServicesDetails>
+<GoodsServices>
+ <ClassificationVersion/>
+ <ClassDescriptionDetails>
+  <ClassDescription>
+   <ClassNumber>4</ClassNumber>
+   <GoodsServicesDescription languageCode="bg">Промишлени масла и греси,смазочни масла; Регулиращи смеси за прах; Горива и осветителни вещества; Свещи и фитили за осветление.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="cs">Průmyslové oleje a tuky, mazadla; Přípravky proti usazování prachu; Paliva a osvětlovací látky; Svíčky a knoty na svícení.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="da">Industrielle olier og smørefedttyper, smøremidler; Støvfjernende midler; Brændstoffer og belysningsmidler; Lys og væger til belysning.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="de">Technische Öle und Fette, Schmiermittel; Staubabsorbierungs-, Staubbenetzungs- und Staubbindemittel; Brennstoffe und Leuchtstoffe; Kerzen und Dochte für Beleuchtungszwecke.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="el">Βιομηχανικά έλαια και λίπη, λιπαντικά· Συνθέσεις για τον έλεγχο της σκόνης· Καύσιμα και φωτιστικές ουσίες· Κεριά και φυτίλια φωτισμού.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="en">Industrial oils and greases, lubricants; Dust controlling compositions; Fuels and illuminants; Candles and wicks for lighting.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="es">Aceites y grasas industriales, lubricantes; Composiciones para el control del polvo; Combustibles e iluminantes; Velas y mechas para alumbrado.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="et">Õlid ja määrded, määrdeõlid (tööstuslikud); Segud tolmu levimise vältimiseks; Kütteained ja valgustusained; Küünlad ja tahid valgustuseks.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fi">Teollisuusöljyt ja -rasvat, voiteluaineet; Pölyntorjunta-aineet; Polttoaineet ja valaistusaineet; Kynttilät ja lampun sydämet valaistukseen.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="fr">Huiles et graisses industrielles, ainsi que lubrifiants; Compositions pour la prévention de la poussière; Combustibles et matières éclairantes; Bougies et mèches pour l'éclairage.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hr">Industrijska ulja i masti [maziva]; Mješavine za kontrolu prašine; Goriva i rasvjetne tvari; Svijeće i fitilji za rasvjetu.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="hu">Ipari olajok, zsírok és kenőanyagok; Porfelszívó, portalanító és porlekötő termékek; Üzemanyagok és világítóanyagok; Gyertyák és kanócok világításhoz.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="it">Olii e grassi industriali, lubrificanti; Agenti per il controllo delle polveri; Combustibili e materie illuminanti; Candele e stoppini per l'illuminazione.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lt">Pramoninės alyvos, tirštieji tepalai ir tepalai; Dulkių sugeriamieji, drėkinamieji ir rišamieji mišiniai; Degalai ir apšvietimo medžiagos; Apšvietimo žvakės ir dagčiai.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="lv">Rūpnieciskās eļļas un ziedes, smērvielas; Putekļu savākšanas līdzekļi; Degvielas un vielas apgaismošanas nolūkiem; Sveces un daktis apgaismošanas nolūkiem.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="mt">Żjut u grassi industrijali, lubrikanti; Kompożizzjonijiet għall-kontroll tat-trab; Fjuwils u lluminanti; Xemgħat u ftejjel biex tixgħel.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="nl">Industriële oliën en vetten, smeermiddelen; Bindmiddelen voor stof; Brandstoffen en verlichtingsstoffen; Kaarsen en lampenpitten.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pl">Oleje i tłuszcze przemysłowe, smary; Mieszaniny pochłaniające kurz; Paliwa i materiały oświetleniowe; Świece i knoty do oświetlenia.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="pt">Óleos e gorduras industriais, lubrificantes; Compostos para o controlo do pó/poeira; Combustíveis e matérias de iluminação; Velas e pavios para iluminação.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="ro">Uleiuri și unsori industriale, lubrifianți; Compoziții pentru controlul prafului; Combustibili și materiale pentru iluminat; Lumânări și fitiluri pentru iluminat.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sk">Priemyselné oleje a masti, mazivá; Odprašovacie zmesi; Palivá a svietiace materiály; Sviečky a knôty na svietenie.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sl">Industrijska olja in masti, maziva; Sredstva za nadzorovanje prahu; Goriva in snovi za osvetljevanje; Sveče in stenji za osvetljevanje.</GoodsServicesDescription>
+   <GoodsServicesDescription languageCode="sv">Industriella oljor och fetter, smörjmedel och smörjämnen; Medel för dammbekämpning; Bränslen och belysningsmedel; Ljus och vekar för belysning.</GoodsServicesDescription>
+  </ClassDescription>
+ </ClassDescriptionDetails>
+</GoodsServices>
+</GoodsServicesDetails>
+<PriorityDetails>
+<Priority>
+<PriorityCountryCode>DE</PriorityCountryCode>
+<PriorityNumber>3020200063426</PriorityNumber>
+<PriorityDate>2020-03-20</PriorityDate>
+<PriorityPartialIndicator>false</PriorityPartialIndicator>
+<PriorityStatusCode>Claimed</PriorityStatusCode>
+</Priority>
+</PriorityDetails>
+<PublicationDetails>
+       <Publication>
+        <PublicationIdentifier>2020/089</PublicationIdentifier>
+        <PublicationSection>A.1</PublicationSection>
+        <PublicationDate>2020-05-13</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/159</PublicationIdentifier>
+        <PublicationSection>B.1</PublicationSection>
+        <PublicationDate>2020-08-21</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+       <Publication>
+        <PublicationIdentifier>2020/203</PublicationIdentifier>
+        <PublicationSection>C.3.6</PublicationSection>
+        <PublicationDate>2020-10-23</PublicationDate>
+        <PublicationPage>0</PublicationPage>
+       </Publication>
+      </PublicationDetails>
+<ApplicantDetails>
+<ApplicantKey>
+<Identifier>59698</Identifier>
+</ApplicantKey>
+</ApplicantDetails>
+<RepresentativeDetails>
+<RepresentativeKey>
+<Identifier>14832</Identifier>
+</RepresentativeKey>
+</RepresentativeDetails>
+</TradeMark>
+</TradeMarkDetails>
+</TransactionData>
+</TransactionContentDetails>
+</TradeMarkTransactionBody>
+</Transaction>

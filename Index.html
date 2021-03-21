@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Rightly PTO</title>
+
+    
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="data.js"></script>
+</head>
+<body>
+    <section class="fullWidth">
+        <div>
+            <svg class="LogoImage" width="210" height="109.01" viewBox="0 0 130 29.01"><path d="M48.42,23.53l-4.88-6.66H40.71v6.66H36.85V4.68h7.09c4,0,6.8,2.4,6.8,6.08a5.82,5.82,0,0,1-3.32,5.37l5.34,7.4ZM40.71,13.47h3.23a2.58,2.58,0,0,0,2.85-2.71,2.6,2.6,0,0,0-2.85-2.69H40.71Z"></path><path d="M54.3,4.25a2.4,2.4,0,0,1,2.46-2.4,2.42,2.42,0,0,1,2.49,2.4,2.42,2.42,0,0,1-2.49,2.37A2.39,2.39,0,0,1,54.3,4.25Zm.55,5.14H58.7V23.53H54.85Z"></path><path d="M93.07,14.76v8.77H89.24V15.3a2.53,2.53,0,0,0-2.62-2.74,2.6,2.6,0,0,0-2.69,2.74v8.23H80.08V2.11h3.85v8.48a5.43,5.43,0,0,1,3.89-1.52C91,9.07,93.07,11.36,93.07,14.76Z"></path><path d="M105.63,20.3v3.23a10.73,10.73,0,0,1-2.66.34c-3.48,0-5.65-1.69-5.65-5.31V12.82H95.09V9.56h2.23V5.82h3.85V9.56h4v3.26h-4v5.39c0,1.63.86,2.2,2.63,2.2C104.26,20.41,104.89,20.36,105.63,20.3Z"></path><path d="M108.61,2.11h3.85V23.53h-3.85Z"></path><path d="M130,9.39l-6.77,15.36c-1.28,2.92-3,4.26-5.63,4.26a10.16,10.16,0,0,1-2.48-.34V25.44c.66.06,1.2.11,1.66.11a2.82,2.82,0,0,0,2.94-1.91l.2-.48-5.57-13.7,4.45-.07,3.37,9.5,3.77-9.5Z"></path><path d="M69.16,19.84A3.62,3.62,0,0,1,65.5,16a3.5,3.5,0,0,1,3.66-3.68A3.37,3.37,0,0,1,72.72,16,3.52,3.52,0,0,1,69.16,19.84ZM76.52,9.39H73v1.77a5.52,5.52,0,0,0-4.62-2.09c-3.86,0-6.77,2.75-6.77,7s2.88,7,6.77,7a5.71,5.71,0,0,0,4.31-1.68v.77c0,2.4-1.23,3.34-3.71,3.34A7.53,7.53,0,0,1,64.27,24l-2,2.8A11,11,0,0,0,69.07,29c4.45,0,7.45-2.28,7.45-7Z"></path><polygon points="25.2 28.2 9.99 28.2 10.03 18.5 16.17 18.5 25.2 28.2" style="fill: rgb(255, 220, 149);"></polygon><path d="M16.17,0H10V18.51h6.14a9.13,9.13,0,0,0,9-9.26A9.12,9.12,0,0,0,16.17,0Z" style="fill: rgb(53, 111, 220);"></path><polygon points="0 0 0 28.2 10.03 28.2 10.03 18.5 10.03 0 0 0" style="fill: rgb(46, 162, 131);"></polygon></svg>
+        </div>
+        <div class="buttonSearch">
+        <button type="button" onclick="loadXMLDoc()" id="btn1">GET PTO DATA</button>
+        <button type="button" onclick="sortByDate()" id="btn2">Sort By Application Date</button>
+        <button type="button" onclick="sortByDate2()" id="btn3">Sort By Expiry Date</button>
+        <input type="text" id="sch" onkeyup="search()" placeholder="Search" title="Search">
+        </div>
+    </section>
+
+    <table id="demo">
+        <tbody>
+        </tbody>
+    </table>
+    <footer>
+        <p>Created by: Mathias Thrane Rytter Kristensen</p>
+    </footer>
+</body>
+
+</html>
+<!--onclick="loadXMLDoc()"-->
