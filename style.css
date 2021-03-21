@@ -120,7 +120,6 @@
             padding: 15px;
         }
         #sch {
-            -webkit-background-image: url('/img/searchicon.png');
             background-image: url('/img/searchicon.png');
             background-position: 10px 10px;
             background-repeat: no-repeat;
