@@ -53,6 +53,7 @@
 
             th, td {
                 text-align: center;
+                 vertical-align: baseline;
                 padding: 10px;
                 font-family:Verdana, Geneva, Tahoma, sans-serif;
             }
